@@ -17,3 +17,6 @@ test: &test
 cucumber:
   <<: *test
 
+production:
+  <<: *default
+  database: rebirth_production
