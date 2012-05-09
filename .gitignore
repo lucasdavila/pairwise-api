@@ -7,7 +7,6 @@ coverage/*
 *.swp
 todo
 !.keep
-.rvmrc
 .bundle
 bin/
 vendor/ruby
